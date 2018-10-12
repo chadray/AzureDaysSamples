@@ -1,0 +1,11 @@
+C:\Code\QSSpeechToText\bin\Debug\netcoreapp2.1\QSSpeechToText.deps.json
+C:\Code\QSSpeechToText\bin\Debug\netcoreapp2.1\QSSpeechToText.runtimeconfig.json
+C:\Code\QSSpeechToText\bin\Debug\netcoreapp2.1\QSSpeechToText.runtimeconfig.dev.json
+C:\Code\QSSpeechToText\bin\Debug\netcoreapp2.1\QSSpeechToText.dll
+C:\Code\QSSpeechToText\bin\Debug\netcoreapp2.1\QSSpeechToText.pdb
+C:\Code\QSSpeechToText\obj\Debug\netcoreapp2.1\QSSpeechToText.csprojAssemblyReference.cache
+C:\Code\QSSpeechToText\obj\Debug\netcoreapp2.1\QSSpeechToText.csproj.CoreCompileInputs.cache
+C:\Code\QSSpeechToText\obj\Debug\netcoreapp2.1\QSSpeechToText.AssemblyInfoInputs.cache
+C:\Code\QSSpeechToText\obj\Debug\netcoreapp2.1\QSSpeechToText.AssemblyInfo.cs
+C:\Code\QSSpeechToText\obj\Debug\netcoreapp2.1\QSSpeechToText.dll
+C:\Code\QSSpeechToText\obj\Debug\netcoreapp2.1\QSSpeechToText.pdb

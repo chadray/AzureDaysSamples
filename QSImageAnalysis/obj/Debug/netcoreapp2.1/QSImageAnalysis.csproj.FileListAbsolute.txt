@@ -1,0 +1,11 @@
+C:\Code\QSImageAnalysis\bin\Debug\netcoreapp2.1\QSImageAnalysis.deps.json
+C:\Code\QSImageAnalysis\bin\Debug\netcoreapp2.1\QSImageAnalysis.runtimeconfig.json
+C:\Code\QSImageAnalysis\bin\Debug\netcoreapp2.1\QSImageAnalysis.runtimeconfig.dev.json
+C:\Code\QSImageAnalysis\bin\Debug\netcoreapp2.1\QSImageAnalysis.dll
+C:\Code\QSImageAnalysis\bin\Debug\netcoreapp2.1\QSImageAnalysis.pdb
+C:\Code\QSImageAnalysis\obj\Debug\netcoreapp2.1\QSImageAnalysis.csprojAssemblyReference.cache
+C:\Code\QSImageAnalysis\obj\Debug\netcoreapp2.1\QSImageAnalysis.csproj.CoreCompileInputs.cache
+C:\Code\QSImageAnalysis\obj\Debug\netcoreapp2.1\QSImageAnalysis.AssemblyInfoInputs.cache
+C:\Code\QSImageAnalysis\obj\Debug\netcoreapp2.1\QSImageAnalysis.AssemblyInfo.cs
+C:\Code\QSImageAnalysis\obj\Debug\netcoreapp2.1\QSImageAnalysis.dll
+C:\Code\QSImageAnalysis\obj\Debug\netcoreapp2.1\QSImageAnalysis.pdb

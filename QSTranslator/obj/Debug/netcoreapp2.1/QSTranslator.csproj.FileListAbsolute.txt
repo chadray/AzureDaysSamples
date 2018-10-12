@@ -1,0 +1,11 @@
+C:\Code\QSTranslator\obj\Debug\netcoreapp2.1\QSTranslator.csprojAssemblyReference.cache
+C:\Code\QSTranslator\obj\Debug\netcoreapp2.1\QSTranslator.csproj.CoreCompileInputs.cache
+C:\Code\QSTranslator\obj\Debug\netcoreapp2.1\QSTranslator.AssemblyInfoInputs.cache
+C:\Code\QSTranslator\obj\Debug\netcoreapp2.1\QSTranslator.AssemblyInfo.cs
+C:\Code\QSTranslator\bin\Debug\netcoreapp2.1\QSTranslator.deps.json
+C:\Code\QSTranslator\bin\Debug\netcoreapp2.1\QSTranslator.runtimeconfig.json
+C:\Code\QSTranslator\bin\Debug\netcoreapp2.1\QSTranslator.runtimeconfig.dev.json
+C:\Code\QSTranslator\bin\Debug\netcoreapp2.1\QSTranslator.dll
+C:\Code\QSTranslator\bin\Debug\netcoreapp2.1\QSTranslator.pdb
+C:\Code\QSTranslator\obj\Debug\netcoreapp2.1\QSTranslator.dll
+C:\Code\QSTranslator\obj\Debug\netcoreapp2.1\QSTranslator.pdb
