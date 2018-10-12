@@ -1,0 +1,11 @@
+C:\Code\AzureDaysSamples\QSFaceAPI\bin\Debug\netcoreapp2.1\QSFaceAPI.deps.json
+C:\Code\AzureDaysSamples\QSFaceAPI\bin\Debug\netcoreapp2.1\QSFaceAPI.runtimeconfig.json
+C:\Code\AzureDaysSamples\QSFaceAPI\bin\Debug\netcoreapp2.1\QSFaceAPI.runtimeconfig.dev.json
+C:\Code\AzureDaysSamples\QSFaceAPI\bin\Debug\netcoreapp2.1\QSFaceAPI.dll
+C:\Code\AzureDaysSamples\QSFaceAPI\bin\Debug\netcoreapp2.1\QSFaceAPI.pdb
+C:\Code\AzureDaysSamples\QSFaceAPI\obj\Debug\netcoreapp2.1\QSFaceAPI.csprojAssemblyReference.cache
+C:\Code\AzureDaysSamples\QSFaceAPI\obj\Debug\netcoreapp2.1\QSFaceAPI.csproj.CoreCompileInputs.cache
+C:\Code\AzureDaysSamples\QSFaceAPI\obj\Debug\netcoreapp2.1\QSFaceAPI.AssemblyInfoInputs.cache
+C:\Code\AzureDaysSamples\QSFaceAPI\obj\Debug\netcoreapp2.1\QSFaceAPI.AssemblyInfo.cs
+C:\Code\AzureDaysSamples\QSFaceAPI\obj\Debug\netcoreapp2.1\QSFaceAPI.dll
+C:\Code\AzureDaysSamples\QSFaceAPI\obj\Debug\netcoreapp2.1\QSFaceAPI.pdb

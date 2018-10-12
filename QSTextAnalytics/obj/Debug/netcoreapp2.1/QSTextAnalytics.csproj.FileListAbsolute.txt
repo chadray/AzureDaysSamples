@@ -1,0 +1,11 @@
+C:\Code\AzureDaysSamples\QSTextAnalytics\bin\Debug\netcoreapp2.1\QSTextAnalytics.deps.json
+C:\Code\AzureDaysSamples\QSTextAnalytics\bin\Debug\netcoreapp2.1\QSTextAnalytics.runtimeconfig.json
+C:\Code\AzureDaysSamples\QSTextAnalytics\bin\Debug\netcoreapp2.1\QSTextAnalytics.runtimeconfig.dev.json
+C:\Code\AzureDaysSamples\QSTextAnalytics\bin\Debug\netcoreapp2.1\QSTextAnalytics.dll
+C:\Code\AzureDaysSamples\QSTextAnalytics\bin\Debug\netcoreapp2.1\QSTextAnalytics.pdb
+C:\Code\AzureDaysSamples\QSTextAnalytics\obj\Debug\netcoreapp2.1\QSTextAnalytics.csprojAssemblyReference.cache
+C:\Code\AzureDaysSamples\QSTextAnalytics\obj\Debug\netcoreapp2.1\QSTextAnalytics.csproj.CoreCompileInputs.cache
+C:\Code\AzureDaysSamples\QSTextAnalytics\obj\Debug\netcoreapp2.1\QSTextAnalytics.AssemblyInfoInputs.cache
+C:\Code\AzureDaysSamples\QSTextAnalytics\obj\Debug\netcoreapp2.1\QSTextAnalytics.AssemblyInfo.cs
+C:\Code\AzureDaysSamples\QSTextAnalytics\obj\Debug\netcoreapp2.1\QSTextAnalytics.dll
+C:\Code\AzureDaysSamples\QSTextAnalytics\obj\Debug\netcoreapp2.1\QSTextAnalytics.pdb
