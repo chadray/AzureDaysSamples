@@ -1,0 +1,11 @@
+C:\Code\AzureDaysSamples\QSExtractText\bin\Debug\netcoreapp2.1\QSExtractText.deps.json
+C:\Code\AzureDaysSamples\QSExtractText\bin\Debug\netcoreapp2.1\QSExtractText.runtimeconfig.json
+C:\Code\AzureDaysSamples\QSExtractText\bin\Debug\netcoreapp2.1\QSExtractText.runtimeconfig.dev.json
+C:\Code\AzureDaysSamples\QSExtractText\bin\Debug\netcoreapp2.1\QSExtractText.dll
+C:\Code\AzureDaysSamples\QSExtractText\bin\Debug\netcoreapp2.1\QSExtractText.pdb
+C:\Code\AzureDaysSamples\QSExtractText\obj\Debug\netcoreapp2.1\QSExtractText.csprojAssemblyReference.cache
+C:\Code\AzureDaysSamples\QSExtractText\obj\Debug\netcoreapp2.1\QSExtractText.csproj.CoreCompileInputs.cache
+C:\Code\AzureDaysSamples\QSExtractText\obj\Debug\netcoreapp2.1\QSExtractText.AssemblyInfoInputs.cache
+C:\Code\AzureDaysSamples\QSExtractText\obj\Debug\netcoreapp2.1\QSExtractText.AssemblyInfo.cs
+C:\Code\AzureDaysSamples\QSExtractText\obj\Debug\netcoreapp2.1\QSExtractText.dll
+C:\Code\AzureDaysSamples\QSExtractText\obj\Debug\netcoreapp2.1\QSExtractText.pdb
