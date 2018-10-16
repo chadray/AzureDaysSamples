@@ -1,0 +1,11 @@
+C:\Code\AzureDaysSamples\QSQnAMaker\obj\Debug\netcoreapp2.1\QSQnAMaker.csprojAssemblyReference.cache
+C:\Code\AzureDaysSamples\QSQnAMaker\obj\Debug\netcoreapp2.1\QSQnAMaker.csproj.CoreCompileInputs.cache
+C:\Code\AzureDaysSamples\QSQnAMaker\obj\Debug\netcoreapp2.1\QSQnAMaker.AssemblyInfoInputs.cache
+C:\Code\AzureDaysSamples\QSQnAMaker\obj\Debug\netcoreapp2.1\QSQnAMaker.AssemblyInfo.cs
+C:\Code\AzureDaysSamples\QSQnAMaker\bin\Debug\netcoreapp2.1\QSQnAMaker.deps.json
+C:\Code\AzureDaysSamples\QSQnAMaker\bin\Debug\netcoreapp2.1\QSQnAMaker.runtimeconfig.json
+C:\Code\AzureDaysSamples\QSQnAMaker\bin\Debug\netcoreapp2.1\QSQnAMaker.runtimeconfig.dev.json
+C:\Code\AzureDaysSamples\QSQnAMaker\bin\Debug\netcoreapp2.1\QSQnAMaker.dll
+C:\Code\AzureDaysSamples\QSQnAMaker\bin\Debug\netcoreapp2.1\QSQnAMaker.pdb
+C:\Code\AzureDaysSamples\QSQnAMaker\obj\Debug\netcoreapp2.1\QSQnAMaker.dll
+C:\Code\AzureDaysSamples\QSQnAMaker\obj\Debug\netcoreapp2.1\QSQnAMaker.pdb
