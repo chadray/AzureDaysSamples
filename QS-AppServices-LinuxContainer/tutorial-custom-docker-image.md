@@ -81,7 +81,8 @@ ENTRYPOINT ["init.sh"]
 
 To build the Docker image, run the `docker build` command, and provide a name, _mydockerimage_, and tag, _v1.0.0_. 
 
-```bash and Powershell
+Bash and Powershell
+```
 docker build --tag mydockerimage:v1.0.0 .
 ```
 
@@ -122,8 +123,10 @@ Verify the web app and container are functioning correctly by browsing to `http:
 
 When verified, press control+c to stop the docker image.
 
-Show the running docker image
-```bash and Powershell
+Show the running docker image:
+
+Bash and Powershell
+```
 docker ps -a
 docker kill <image name>
 docker rm <image name>
@@ -157,6 +160,7 @@ Example: azd-china-webapp-111111 and azd-china-acr-1111
 NOTE: If the commands below fail to create the WebApp or Azure Container Registry, it's likely the unique name is already taken.
 Please try another name.
 
+Bash
 ```bash
 RG=<Lab Resource Group Name>
 LOCATION=southeastasia
@@ -165,29 +169,33 @@ WEBAPPNAME=azd-china-webapp
 ACRNAME=azd-china-acr-....
 ACRSERVER=$ACRNAME.azurecr.io
 ```
-
+Powershell
 ```Powershell
 RG = <Lab Resource Group Name>
-LOCATION = `souteastasia`
-APPSVCPLAN = `azd-china-appsvcplan`
-WEBAPPNAME = `azd-china-webapp`
-ACRNAME = `azd-china-acr-....`
-ACRSERVER = $ACRNAME + `.azrecr.io`
+LOCATION = "souteastasia"
+APPSVCPLAN = "azd-china-appsvcplan"
+WEBAPPNAME = "azd-china-webapp"
+ACRNAME = "azd-china-acr-...."
+ACRSERVER = $ACRNAME + ".azrecr.io"
 ```
 
 ### Log in to Azure with CLI
+
+Bash and Powershell
 ``` bash and Powershell
 az login
 ```
 
 ### Create a resource group
 
+Bash and Powershell
 ```bash and Powershell
 az group create --name $RG --location $LOCATION
 ```
 
 ### Create a Linux App Service plan
 
+Bash and Powershell
 ```bash and Powershell
 az appservice plan create --name $APPSVCPLAN --resource-group $RG --sku B1 --is-linux
 ```
@@ -203,6 +211,7 @@ Azure Container Registry is a managed Docker service from Azure for hosting priv
 
 In the Cloud Shell, use the [`az acr create`](/cli/azure/acr?view=azure-cli-latest#az-acr-create) command to create an Azure Container Registry. Pass in the name, resource group, and `Basic` for the SKU. Available SKUs are `Classic`, `Basic`, `Standard`, and `Premium`.
 
+Bash and Powershell
 ```bash and Powershell
 az acr create --name $ACRNAME --resource-group $RG --sku Basic --admin-enabled true
 ```
@@ -241,6 +250,7 @@ Use an existing service principal and assign access:
 
 In order to push an image to the registry, you need to supply credentials so the registry accepts the push. You can retrieve these credentials by using the [`az acr show`]. 
 
+Bash and Powershell
 ```bash and Powershell
 az acr credential show --name $ACRNAME
 ```
@@ -265,13 +275,15 @@ The command reveals two passwords that can be used with the user name.
 
 From your local terminal window, log in to the Azure Container Registry using the `docker login` command. The server name is required to log in. Use the format `{azure-container-registry-name>.azurecr.io`. Type in your password into the console at the prompt.
 
+Bash
 ```bash
 REGISTRYUSER=<username from above>
 docker login $ACRSERVER --username $REGISTRYUSER
 ```
 
+Powershell
 ```Powershell
-REGISTRYUSER = `<username from above>`
+REGISTRYUSER = "<username from above>"
 docker login $ACRSERVER --username $REGISTRYUSER
 ```
 
@@ -286,7 +298,7 @@ Confirm that the login succeeded.
 > ```
 
 ```Powershell
-docker tag $ACRSERVER + `/mydockerimage`
+docker tag $ACRSERVER + "/mydockerimage"
 ```
 
 Push the image by using the `docker push` command. Tag the image with the name of the registry, followed by your image name and tag.
@@ -296,7 +308,7 @@ docker push $ACRSERVER/mydockerimage:v1.0.0
 ```
 
 ```Powershell
-docker push $ACRSERVER + `/mydockerimage:v1.0.0`
+docker push $ACRSERVER + "/mydockerimage:v1.0.0"
 ```
 
 Verify that the push successfully added a container to the registry by listing the ACR repositories. 
@@ -321,7 +333,7 @@ az webapp create --resource-group $RG --plan $APPSVCPLAN --name $WEBAPPNAME --de
 ```
 
 ```Powershell
-az webapp create --resource-group $RG --plan $APPSVCPLAN --name $WEBAPPNAME --deployment-container-image-name $ACRSERVER + `/mydockerimage:v1.0.0`
+az webapp create --resource-group $RG --plan $APPSVCPLAN --name $WEBAPPNAME --deployment-container-image-name $ACRSERVER + "/mydockerimage:v1.0.0"
 ```
 
 When the web app has been created, the Azure CLI shows output similar to the following example:
@@ -369,7 +381,6 @@ az webapp config appsettings set --resource-group myResourceGroup --name <app_na
 
 Verify that the web app works by browsing to it (`http://<app_name>azurewebsites.net`). 
 
-![Test web app port configuration](./media/app-service-linux-using-custom-docker-image/app-service-linux-browse-azure.png)
 
 ## Change web app and redeploy
 
@@ -462,6 +473,8 @@ PID USER      PR  NI    VIRT    RES    SHR S %CPU %MEM     TIME+ COMMAND
 
 Congratulations! You've configured a custom Docker image for a Web App for Containers.
 
+
+<!--
 ## Use a private image from Docker Hub (optional)
 
 In [Create a web app](#create-a-web-app), you specified an image on Docker Hub in the `az webapp create` command. This is good enough for a public image. To use a private image, you need to configure your Docker account ID and password in your Azure web app.
@@ -562,10 +575,4 @@ The command reveals output similar to the following JSON string, showing that th
   }
 ]
 ```
-
-[!INCLUDE [Clean-up section](../../../includes/cli-script-clean-up.md)]
-
-## Next steps
-
-> [!div class="nextstepaction"]
-> [Build a Docker Python and PostgreSQL web app in Azure](tutorial-python-postgresql-app.md)
+-->
