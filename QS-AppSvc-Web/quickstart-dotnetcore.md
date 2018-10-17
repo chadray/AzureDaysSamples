@@ -63,10 +63,11 @@ In the Cloud Shell, create deployment credentials with the [`az webapp deploymen
 
 In the following example, replace *\<username>* and *\<password>* (including brackets) with a new user name and password. The user name must be unique within Azure. The password must be at least eight characters long, with two of the following three elements: letters, numbers, symbols. 
 
-Navigate to https://shell.azure.com 
-
 >[!Note]
 >Set up environment variables for use later. You will want to copy this block into a text editor and fill the variables out before pasting into cloud shell.
+
+
+Navigate to https://shell.azure.com 
 
 Azure Cloud Shell
 ```
@@ -176,7 +177,7 @@ Back in the _local terminal window_, add an Azure remote to your local Git repos
 git remote add azure <deploymentLocalGitUrl-from-create-step>
 ```
 
-Push to the Azure remote to deploy your app with the following command. When prompted for credentials by Git Credential Manager, make sure that you enter the credentials you created in [Configure a deployment user](#configure-a-deployment-user), not the credentials you use to sign in to the Azure portal.
+Push to the Azure remote to deploy your app with the following command. When prompted for credentials by Git Credential Manager, make sure that you enter the credentials you created in the "Configure a deployment user" step, not the credentials you use to sign in to the Azure portal.
 
 ```bash
 git push azure master
