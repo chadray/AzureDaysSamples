@@ -17,7 +17,7 @@ To complete this tutorial, you need:
 
 * [Git](https://git-scm.com/downloads)
 * [Docker](https://docs.docker.com/get-started/#setup)
-* A [Docker Hub account](https://docs.docker.com/docker-id/)
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest)
 
 ## Download the sample
 
