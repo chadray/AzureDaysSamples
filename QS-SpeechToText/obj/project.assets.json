@@ -818,11 +818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\QSSpeechToText\\QSSpeechToText.csproj",
+      "projectUniqueName": "c:\\Code\\AzureDaysSamples\\QS-SpeechToText\\QSSpeechToText.csproj",
       "projectName": "QSSpeechToText",
-      "projectPath": "C:\\Code\\QSSpeechToText\\QSSpeechToText.csproj",
+      "projectPath": "c:\\Code\\AzureDaysSamples\\QS-SpeechToText\\QSSpeechToText.csproj",
       "packagesPath": "C:\\Users\\chadray\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\QSSpeechToText\\obj\\",
+      "outputPath": "c:\\Code\\AzureDaysSamples\\QS-SpeechToText\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -4731,11 +4731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Code\\QSImageAnalysis\\QSImageAnalysis.csproj",
+      "projectUniqueName": "c:\\Code\\AzureDaysSamples\\QS-ImageAnalysis\\QSImageAnalysis.csproj",
       "projectName": "QSImageAnalysis",
-      "projectPath": "c:\\Code\\QSImageAnalysis\\QSImageAnalysis.csproj",
+      "projectPath": "c:\\Code\\AzureDaysSamples\\QS-ImageAnalysis\\QSImageAnalysis.csproj",
       "packagesPath": "C:\\Users\\chadray\\.nuget\\packages\\",
-      "outputPath": "c:\\Code\\QSImageAnalysis\\obj\\",
+      "outputPath": "c:\\Code\\AzureDaysSamples\\QS-ImageAnalysis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

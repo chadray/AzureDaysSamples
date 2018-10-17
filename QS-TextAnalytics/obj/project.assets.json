@@ -4731,11 +4731,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\AzureDaysSamples\\QSTextAnalytics\\QSTextAnalytics.csproj",
+      "projectUniqueName": "c:\\Code\\AzureDaysSamples\\QS-TextAnalytics\\QSTextAnalytics.csproj",
       "projectName": "QSTextAnalytics",
-      "projectPath": "C:\\Code\\AzureDaysSamples\\QSTextAnalytics\\QSTextAnalytics.csproj",
+      "projectPath": "c:\\Code\\AzureDaysSamples\\QS-TextAnalytics\\QSTextAnalytics.csproj",
       "packagesPath": "C:\\Users\\chadray\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\AzureDaysSamples\\QSTextAnalytics\\obj\\",
+      "outputPath": "c:\\Code\\AzureDaysSamples\\QS-TextAnalytics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

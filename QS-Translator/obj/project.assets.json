@@ -818,11 +818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Code\\QSTranslator\\QSTranslator.csproj",
+      "projectUniqueName": "c:\\Code\\AzureDaysSamples\\QS-Translator\\QSTranslator.csproj",
       "projectName": "QSTranslator",
-      "projectPath": "c:\\Code\\QSTranslator\\QSTranslator.csproj",
+      "projectPath": "c:\\Code\\AzureDaysSamples\\QS-Translator\\QSTranslator.csproj",
       "packagesPath": "C:\\Users\\chadray\\.nuget\\packages\\",
-      "outputPath": "c:\\Code\\QSTranslator\\obj\\",
+      "outputPath": "c:\\Code\\AzureDaysSamples\\QS-Translator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

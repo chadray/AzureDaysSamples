@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\AzureDaysSamples\\QSFaceAPI\\QSFaceAPI.csproj",
+      "projectUniqueName": "c:\\Code\\AzureDaysSamples\\QS-FaceAPI\\QSFaceAPI.csproj",
       "projectName": "QSFaceAPI",
-      "projectPath": "C:\\Code\\AzureDaysSamples\\QSFaceAPI\\QSFaceAPI.csproj",
+      "projectPath": "c:\\Code\\AzureDaysSamples\\QS-FaceAPI\\QSFaceAPI.csproj",
       "packagesPath": "C:\\Users\\chadray\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\AzureDaysSamples\\QSFaceAPI\\obj\\",
+      "outputPath": "c:\\Code\\AzureDaysSamples\\QS-FaceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
