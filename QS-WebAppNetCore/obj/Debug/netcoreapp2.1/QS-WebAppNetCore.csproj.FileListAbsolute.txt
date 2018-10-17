@@ -1,0 +1,14 @@
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\bin\Debug\netcoreapp2.1\QS-WebAppNetCore.deps.json
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\bin\Debug\netcoreapp2.1\QS-WebAppNetCore.runtimeconfig.json
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\bin\Debug\netcoreapp2.1\QS-WebAppNetCore.runtimeconfig.dev.json
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\bin\Debug\netcoreapp2.1\QS-WebAppNetCore.dll
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\bin\Debug\netcoreapp2.1\QS-WebAppNetCore.pdb
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\obj\Debug\netcoreapp2.1\QS-WebAppNetCore.csprojAssemblyReference.cache
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\obj\Debug\netcoreapp2.1\QS-WebAppNetCore.csproj.CoreCompileInputs.cache
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\obj\Debug\netcoreapp2.1\QS-WebAppNetCore.RazorAssemblyInfo.cache
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\obj\Debug\netcoreapp2.1\QS-WebAppNetCore.RazorAssemblyInfo.cs
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\obj\Debug\netcoreapp2.1\QS-WebAppNetCore.AssemblyInfoInputs.cache
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\obj\Debug\netcoreapp2.1\QS-WebAppNetCore.AssemblyInfo.cs
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\obj\Debug\netcoreapp2.1\QS-WebAppNetCore.RazorTargetAssemblyInfo.cache
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\obj\Debug\netcoreapp2.1\QS-WebAppNetCore.dll
+C:\Code\AzureDaysSamples\QS-WebAppNetCore\obj\Debug\netcoreapp2.1\QS-WebAppNetCore.pdb
