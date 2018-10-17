@@ -5,13 +5,11 @@
 
 In this tutorial, you learn how to:
 
-> [!div class="checklist"]
 > * Deploy a custom Docker image to Azure
 > * Configure environment variables to run the container
 > * Connect to the container using SSH
 > * Deploy a private Docker image to Azure
 
-[!INCLUDE [Free trial note](../../../includes/quickstarts-free-trial-note.md)]
 
 ## Prerequisites
 
