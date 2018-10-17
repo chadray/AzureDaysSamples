@@ -98,7 +98,7 @@ docker run -p 2222:8000 mydockerimage:v1.0.0
 
 Verify the web app and container are functioning correctly by browsing to `http://localhost:2222`.
 
-![Test web app locally](./media/app-service-linux-using-custom-docker-image/app-service-linux-browse-local.png)
+![Test web app locally](./media/app-service-linux-browse-local.png)
 
 When verified, press control+c to stop the docker image.
 
