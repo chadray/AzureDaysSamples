@@ -7,7 +7,7 @@
 
 [App Service on Linux] provides a highly scalable, self-patching web hosting service using the Linux operating system. This tutorial shows how to create a .NET Core web app and connect it to a SQL Database. When you're done, you'll have a .NET Core MVC app running in App Service on Linux.
 
-![app running in App Service on Linux](./media/tutorial-dotnetcore-sqldb-app/azure-app-in-browser.png)
+![app running in App Service on Linux](./media/azure-app-in-browser.png)
 
 What you learn how to:
 
