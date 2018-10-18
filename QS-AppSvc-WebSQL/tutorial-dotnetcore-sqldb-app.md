@@ -11,7 +11,7 @@
 
 What you learn how to:
 
-> [!div class="checklist"]
+
 > * Create a SQL Database in Azure
 > * Connect a .NET Core app to SQL Database
 > * Deploy the app to Azure
@@ -78,7 +78,8 @@ SQLPWD=<SQL Admin Password>
 ```
 
 Navigate to https://shell.azure.com 
-Once you have the 
+
+Once you have the variables filled in, paste the values into Cloud Shell to set your variables.
 
 
 ## Create production SQL Database

@@ -67,17 +67,19 @@ In the following example, replace *\<username>* and *\<password>* (including bra
 >Set up environment variables for use later. You will want to copy this block into a text editor and fill the variables out before pasting into cloud shell.
 
 
-Navigate to https://shell.azure.com 
-
 Azure Cloud Shell
 ```
 RG=<Your assigned Resource Group for today>
 LOCATION=southeastasia
-DEPLUSER=mydeploymentuser
-DEPLPWD=Pass@word1234
-APPSVCPLAN=NikeWebAppPlan
+DEPLUSER=<user name - not a local AD account>
+DEPLPWD=<Password>
+APPSVCPLAN=<App Plan Name - eg: azd-app-plan-firstname>
 APPNAME=azd-china-web-<first name, number, initials...something unique>
 ```
+
+Navigate to https://shell.azure.com 
+
+Once you have the variables filled in, paste the values into Cloud Shell to set your variables.
 
 
 ```azurecli-interactive
