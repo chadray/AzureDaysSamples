@@ -90,18 +90,6 @@ You should get a JSON output, with the password shown as `null`. If you get a `'
 
 You create this deployment user only once; you can use it for all your Azure deployments.
 
-
-
-## Create the Resource group
-
-```
-az group create --name $RG --location $LOCATION
-```
-
-You generally create your resource group and the resources in a region near you. 
-
-When the command finishes, a JSON output shows you the resource group properties.
-
 ## Create the App Service Plan
 
 ```azurecli-interactive

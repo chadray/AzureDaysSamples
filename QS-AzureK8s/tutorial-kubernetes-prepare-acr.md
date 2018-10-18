@@ -17,6 +17,16 @@ In the [previous tutorial][aks-tutorial-prepare-app], a container image was crea
 
 This tutorial requires that you are running the Azure CLI version 2.0.44 or later. Run `az --version` to find the version. If you need to install or upgrade, see [Install Azure CLI][azure-cli-install].
 
+## Set up the lab environment variables
+
+You may want to copy this into a text editor and fill the values in for later pasting.
+
+```
+RG=NikeWebAppRG1
+ACRNAME=<a unique name, no spaces, dashes or otherwise. eg: azdchinaacrfirstname>
+ACRLOGINSVR=<acrname + .azurecr.io>
+```
+
 ## Create an Azure Container Registry
 
 To create an Azure Container Registry, you first need a resource group. An Azure resource group is a logical container into which Azure resources are deployed and managed.
